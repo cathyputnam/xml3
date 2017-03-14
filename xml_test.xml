@@ -1,10 +1,16 @@
 <page>
-  <author>Your name</author>
-  <title>The Title</title>
-  <intro>Two sentence intro.</intro>
+  <person>Your name</person>
+  <age>your age</age>
+  <intro>One sentence intro.</intro>
   <body>
     <paragraph>First paragraph</paragraph>
     <paragraph>Second paragraph</paragraph>
     <paragraph>Third paragraph</paragraph>
   </body>
 </page>
+
+<address>
+    <number>163</number>
+    <street>Hill</street>
+    <state abbreviation="MA">Massachusetts</state>
+</address>
