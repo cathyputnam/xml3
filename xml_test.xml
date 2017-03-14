@@ -1,0 +1,10 @@
+<page>
+  <author>Your name</author>
+  <title>The Title</title>
+  <intro>Two sentence intro.</intro>
+  <body>
+    <paragraph>First paragraph</paragraph>
+    <paragraph>Second paragraph</paragraph>
+    <paragraph>Third paragraph</paragraph>
+  </body>
+</page>
